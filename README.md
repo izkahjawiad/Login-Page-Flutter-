@@ -2,7 +2,7 @@
 
 A new Flutter project. Created a Simple Login page using Flutter and Dart.
 
-![alt text](https://github.com/izkahjawiad/Login-Page-Flutter-/blob/master/Screenshot (Resposive).png?raw=true)
+![alt text](https://github.com/izkahjawiad/Login-Page-Flutter-/blob/master/Screenshot (Responsive).png?raw=true)
 
 ## Getting Started
 
